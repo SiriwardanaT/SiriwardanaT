@@ -1,11 +1,11 @@
-### Hi there 👋
-
+############################################### Hi there   👋
+####### I am a third year undergraduate Sri Lanka Institute of Information Technology 
 
 **SiriwardanaT/SiriwardanaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Web Development project
+- 🔭 I’m currently working on Web Development projects with VueJs and NodeJs
 - 🌱 I’m currently learning Vue and Aws (DynamoDb) and Also Firebase Authentication
 - 👯 I’m looking to collaborate on Vue js projects
 
