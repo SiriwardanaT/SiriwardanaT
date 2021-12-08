@@ -1,7 +1,7 @@
 Hi there   👋
 I am a third year undergraduate from Sri Lanka Institute of Information Technology.
+<a href=""> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
-**SiriwardanaT/SiriwardanaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
